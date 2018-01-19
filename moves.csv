@@ -1,0 +1,190 @@
+name,type,PP,Accuracy,power,Effect
+Karate Chop,Fighting,25,100,50,High crit. chance
+Punch,Fighting,35,100,40,-
+Rocket Punch,Steel,20,90,85,-
+Kick,Fighting,35,95,50,-
+Scratch,Normal,35,100,35,-
+Janken,Fighting,25,100,60,-
+Jet Kick,Fighting,20,90,85,-
+Hypertornado,Flying,25,100,80,-
+Tail Smash,Normal,20,95,60,-
+SSB Kaioken,Fire,5,-,-,"Raises ATTACK, SPEED, and SP. ATK sharply"
+Crush,Normal,20,100,85,x2 dmg if target minimizedFlinch (30% chance)
+Mega Kick,Normal,5,75,120,-
+Mawashi Geri,Fighting,15,85,70,-
+Double Kick,Fighting,30,100,30,2 hits (Pow = 30 each)
+Headbutt,Normal,15,100,70,Flinch (20% chance)
+Horn Attack,Normal,25,100,60,-
+Body Slam,Normal,15,100,85,Paralyzis (20% chance)
+Roga Fufuken,Fighting,20,100,60,Attack power ups each time fighter is hit
+Dragon Rush,Fighting,20,95,90,-
+Wild Slash,Normal,25,100,65,High crit. chance
+Death Needle,Poison,15,75,15,Poison (100% chance)
+Full Power,Normal,15,-,-,Raises ATTACK sharply
+Power Burst,Normal,20,-,-,Raises SP. ATK & SP. DEF
+Leer,Normal,30,100,-,Lowers foe's DEFMultiple foes
+Hyper Mode,Normal,15,-,-,Raises SP. ATK sharply
+Energy Ball,Fire,30,100,60,-
+Song,Normal,15,100,-,Sleep (100% chance)
+Acid,Poison,30,100,30,Burn (30% chance)Multiple foes
+Energy Shot,Fire,25,90,90,-
+Fire Breath,Fire,15,100,95,Burn (10% chance)
+Ki Bomber,Fire,20,100,80,-
+Stone Spit,Dark,25,100,-,Paralyzis (100% chance)
+Ice Blast,Ice,10,100,120,Freeze (20% chance)
+Gravity,Psychic,30,100,-,Lowers foe's SPEED
+Ki Blast,Fire,20,100,90,-
+Mouth Blast,Fire,20,100,95,-
+Low Kick,Fighting,20,100,Varies,More dmg on heavier foes
+Counter,Fighting,20,100,Varies,Reflects physical attack as double dmg
+Haikyuken,Fighting,20,100,80,-
+Kyushu,Steel,20,100,30,Heals with 1/2 dmg inflicted
+Eye Beam,Fire,35,100,70,-
+Power Up,Normal,30,-,-,Raises ATTACK
+Kienzan,Fire,15,75,80,High crit. chance
+Sokidan,Fire,30,100,60,-
+Kamehameha,Fire,20,100,100,-
+Garric Gun,Fire,20,100,95,-
+Mystic Net,Psychic,25,100,-,Paralyzis (unknown % chance)
+Antenna Beam,Electric,30,100,40,Paralyzis (10% chance)
+Chono Ryoku,Psychic,20,100,-,Paralyzis (unknown % chance)
+Lightning,Electric,10,70,230,-
+Masenko,Fire,25,100,75,-
+Kiai,Psychic,25,100,65,-
+Stop,Psychic,20,100,-,Paralyzis (100% chance)
+Hypnosis,Psychic,20,60,-,Sleep (100% chance)
+Final Flash,Fire,20,100,100,-
+Speed Up,Normal,25,-,-,Raises SPEED sharply
+Drunken Fist,Fighting,30,100,40,Cannot miss
+Teleport,Psychic,20,-,-,Flee from any fighter and warp to last Heal Center
+Cell Shift,Bug,20,100,-,One use only! Copies foe's last attack permanently
+Zanzoken,Normal,15,-,-,Raises evasiveness
+Saisei,Grass,20,-,-,Restores 1/2 HP
+Harden,Steel,30,-,-,Raises DEFENSE sharply
+Dodonpa,Fire,25,100,75,-
+Kikoho,Fire,5,100,130,User skips next turn
+Guard,Normal,40,-,-,Raises DEFENSE
+Katchin,Steel,20,-,-,Raises DEFENSE and SP. DEF
+Oosaru Beam,Fire,10,100,110,-
+Kaioken Rush,Fighting,10,100,80,May raise ATTACK (30% chance)Good with Kaioken
+Eraser Gun,Fire,20,100,95,-
+Power Return,Normal,20,100,60,Attack power ups each time user is hit
+Crusher Ball,Fire,30,90,75,-
+Milky Cannon,Fire,20,100,95,Poison (unknown % chance)
+Hell's Flash,Fire,20,100,100,-
+Hell Shot,Fire,5,85,120,Burn (20% chance)
+Revenge Beam,Dark,5,100,150,"Charges on 1st turn, hits on 2nd"
+Boar Attack,Normal,15,100,100,1/3 recoil dmgParalyzis (unknown % chance)
+Justice Flash,Fire,20,100,120,-
+Power Impact,Fire,20,100,180,-
+Shining Blaster,Fire,20,100,100,-
+Big B. Kameha,Fire,5,100,250,-
+Finishbuster,Fire,15,100,100,-
+Absorption,Bug,15,100,40,1/2 dmg restores user's HP
+Big Bang,Fire,5,100,120,-
+Light Grenade,Fire,10,95,100,-
+Dizzy Punch,Fighting,10,100,65,Confusion (20% chance)
+Genki Dama,Fire,5,100,150,"Charges on 1st turn, hits on 2nd"
+Spell,Psychic,30,100,-,Lowers foe's SP. DEF sharply
+S.S.D. Bomber,Fire,5,100,130,Cannot miss
+Distorsion,Normal,30,-,-,Endure any hit with 1 HP left
+Planet Burst,Fire,5,100,150,-
+Explosion,Fire,5,100,250,Targets everyoneUser faints
+Supernova,Fire,5,100,255,-
+Hell Zone,Fire,10,100,100,Cannot miss
+Buster Shell,Fire,5,100,180,-
+Spirit Sword,Fire,15,100,90,High crit. chance
+Makankosappo,Electric,5,50,170,Hits 2nd turn
+Thief,Dark,10,100,40,Steal foe's item (if user doesn't have an item)
+Stardust,Psychic,5,100,190,Lowers SP. DEF (unknown % chance)
+Eye Focus,Normal,20,100,-,Next attack cannot miss
+Inferno,Fire,10,95,140,Burn (10% chance)
+Shield,Psychic,15,-,-,Raises SP. DEF sharply
+Giant Form,Grass,20,-,-,Raises ATTACK and DEFENSE
+Z-Sword,Steel,10,100,110,Raises ATTACK (30% chance)
+Energy Punch,Fighting,15,100,85,Raises ATTACK (30% chance)
+Justice Crush,Fire,25,100,110,-
+Mach Punch,Fighting,30,100,40,Hits before foe
+Poison Punch,Poison,30,100,40,Poison (50% chance)
+Dark Smash,Dark,20,100,60,Flinch (30% chance)
+Death Beam,Dark,15,100,90,High crit. chance
+Death Ball,Dark,5,100,120,-
+Revenge Ball,Dark,5,100,175,-
+Dark Sphere,Dark,5,100,220,-
+Ghost Kamikaze,Ghost,10,100,140,Flinch (30% chance)
+Ice Claw,Ice,20,100,90,-
+Galaxybuster,Fire,10,100,130,-
+Lock-On,Steel,5,100,-,Next attack cannot miss
+Dragon Beam,Dragon,5,100,150,-
+Kaioken,Fire,15,-,-,Raises ATTACK and SPEED
+God Fist,Fighting,10,100,200,-
+Blade,Steel,30,100,50,-
+Heal,Psychic,10,-,-,Heal user or ally for 1/2 HP
+Oversight,Normal,30,100,-,Lowers foe's evasion
+Laser Blast,Fire,10,100,110,-
+Final Cannon,Fire,5,100,200,-
+Miracle,Psychic,5,-,-,Heals all party status problems
+Time-Leap,Psychic,10,100,90,Hits before foe
+God Blades,Fire,10,100,170,-
+Wrath,Normal,20,100,90,"User thrashes around for 2-3 turns, then becomes confused"
+Zenkai,Normal,10,-,-,Costs 1/2 full HP to maximize ATTACK
+10x Kameha,Fire,5,100,200,-
+Dynamitekick,Fighting,10,80,100,-
+God Kameha,Fire,5,100,230,-
+Phantom,Ghost,20,100,100,-
+Divination,Psychic,40,100,-,Foe cannot increase evasion
+Saiyan Power,Normal,20,-,-,Raises ATTACK and DEFENSE
+Crunch,Normal,20,100,70,Lowers SP. DEF (20% chance)
+Dash Attack,Normal,10,100,75,Hits before foe
+Kinesis,Rock,15,100,60,-
+Black Ball,Dark,15,100,140,Lowers foe's SP. DEF (20% chance)
+Team Attack,Normal,10,100,10,Power depends on number of party members
+Guard Break,Normal,30,100,-,Lowers foe's DEFENSE
+Concentrate,Normal,20,-,-,Raises crit. chance (unknown %)
+Black Kameha,Dark,5,100,220,-
+Taunt,Dark,20,100,-,Foe can only use attacking moves
+Genki Sword,Fire,5,100,150,High crit. chance
+Wish,Psychic,15,-,-,Sharply raises SP. ATK
+Supreme Ball,Fire,5,100,140,-
+God Slicer,Psychic,15,100,100,High crit. chance
+Demon Saber,Dark,20,100,85,-
+Change,Psychic,10,100,-,"If user faints, attacking foe faints as well"
+Meteor Rush,Fighting,20,100,15,2-5 hits (Pow = 15 each)
+Poison Breath,Poison,40,90,-,Poison (100% chance)
+Energy Field,Fire,10,100,90,Lowers foe's DEFENSE (10% chance)
+Blaze Kick,Fire,15,100,90,High crit. chanceBurn (10% chance)
+Poison Fang,Poison,15,100,50,Poison (50% chance)
+Crush Claw,Normal,10,95,75,Lowers foe's DEFENSE (50% chance)
+Final Impact,Fire,5,85,170,
+Super Kameha,Fire,5,100,150,-
+Air Slash,Flying,20,95,85,High crit. chance
+Burning Rush,Fire,10,90,110,-
+Telepathy,Psychic,10,-,-,Avoids next attack
+Sky Uppercut,Fighting,15,90,85,-
+Snap Slash,Normal,15,100,75,High crit. chance
+Dragon Fist,Dragon,5,40,∞,One-hit KO
+Boost,Normal,20,-,-,Raises ATTACK and DEFENSE at the cost of SPEED
+Diving Kick,Fighting,10,100,85,"Charges on 1st turn, hits on 2ndCannot be hit during charge-up"
+Flash Attack,Electric,15,100,90,Hits before foe
+Aqua Shock,Water,20,100,60,Confusion (20% chance)
+Ordeal,Psychic,5,-,200,Cannot miss
+,,,,,
+Dig,Ground,10,100,60,"Charges on 1st turn, hits on 2ndCannot be hit during charge-up (with some exceptions)"
+Brick Break,Fighting,15,100,75,Breaks any barrier like Light Screen (#113) and Reflect (#115)
+Reflect,Psychic,20,-,-,Reduces physical dmg for 5 turns
+Shockwave,Electric,20,-,60,Cannot miss
+Rock Tomb,Rock,10,80,50,Lowers foe's SPEED
+Torment,Dark,15,100,-,Foe cannot repeat attacks successively
+Final Kameha,Fire,5,100,250,-
+Secret Power,Normal,20,100,70,Additional effect based on terrain (30% chance)
+Rest,Psychic,10,-,-,Sleep 2 turnsRestore HP and remove status problems
+Steel Wing,Steel,25,90,70,Raises DEFENSE (10% chance)
+Snatch,Dark,10,100,-,Steals effect of foe's healing or status-changing move
+,,,,,
+Cut,Normal,30,95,50,-
+Fly,Flying,15,95,70,"Charges on 1st turn, hits on 2ndCannot be hit during charge-up (with some exceptions)"
+Surf,Water,15,100,95,Hits multiple foes
+Strength,Normal,15,100,80,-
+Taiyouken,Normal,20,85,-,Lowers foe's accuracy
+Rock Smash,Fighting,15,100,40,Lowers foe's DEFENSE (50% chance)
+Waterfall,Water,15,100,80,-
